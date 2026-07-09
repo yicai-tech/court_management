@@ -1,0 +1,13 @@
+{
+  "name": "court-management",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^4.5.5"
+  }
+}
